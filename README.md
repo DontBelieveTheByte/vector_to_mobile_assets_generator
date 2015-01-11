@@ -17,6 +17,8 @@ if anything should be fixed.**
 
 Direct download of [latest version](/vector_to_mobile_assets_generator_PNG.jsx?raw=true).
 
+Just click "save as".
+
 ### Installation
 
 * In CS6, it's possible to run a script by installing it in the proper directory. You simply need to drag and drop the scrip
