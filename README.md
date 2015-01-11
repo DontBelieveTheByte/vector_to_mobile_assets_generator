@@ -15,7 +15,7 @@ if anything should be fixed.**
 
 ### Download
 
-Direct download of [latest version](/vector_to_mobile_assets_generator_PNG.jsx).
+Direct download of [latest version](/vector_to_mobile_assets_generator_PNG.jsx?raw=true).
 
 ### Installation
 
