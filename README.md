@@ -1,11 +1,3 @@
----
-layout: post
-category : projects
-tagline: "Export Adobe illustrator vector files to all Android and iOS resolutions"
-tags : [Android, ExtendScript, JavaScript, Adobe]
----
-{% include JB/setup %}
-
 ### Supported resolutions
 
 - LDPI
